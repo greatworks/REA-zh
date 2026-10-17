@@ -1,0 +1,13 @@
+{
+  "repo": "https://github.com/morluto/rea",
+  "npm": "rea-agents",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 morluto",
+  "skillUpstream": "skills/reverse-engineer-anything",
+  "basedOnVersions": ["6.4.0", "6.5.0"],
+  "commandCount": 155,
+  "toolCount": 207,
+  "localizedBy": "令狐杨过 JW",
+  "localizedAt": "2026-10-17",
+  "notes": "Chinese localization of the upstream agent skill. Six workflow references translated verbatim-in-structure; tool names, commands, fields, env vars, paths and URLs left untouched. Adds quickstart, provider setup, target routing, evidence discipline, full command index, glossary and two self-check scripts. Ships no runtime, no node_modules, no engines."
+}
