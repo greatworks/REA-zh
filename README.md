@@ -1,5 +1,5 @@
-<div align="center">
-# REA 逆向工程（中文版）
+
+# REA 逆向工程 Skill（中文版）
 
 逆向一切你想逆向的软件工程。让 AI 代理拆解已发布的软件，回答「这个功能是怎么实现的」，并且每一条结论都
 能挂回可引用的证据。
@@ -174,4 +174,4 @@ workbuddy`，确认后加 `--apply`，然后重启会话。注册后如果又突
 
 基于 morluto 的 REA（MIT）。上游版权声明原样保留，改动范围见 `NOTICE.md`。
 上游项目主页 https://github.com/morluto/rea 。
-</div>
+
