@@ -8,6 +8,8 @@ Electron、APK、固件与浏览器运行时的分析能力统一成 MCP 服务�
 工具。本技能是其中文封装：把英文方法论完整汉化，并补上安装接入、引擎配置、
 命令索引与自检脚本。
 
+<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="greatworks%2Frea | Trendshift" width="250" height="55"/></a>
+
 ## 适合谁
 
 - 看到别人的产品有个好功能，想知道它是怎么做到的
