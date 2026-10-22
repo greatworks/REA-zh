@@ -1,3 +1,4 @@
+<div align="center">
 # REA 逆向工程（中文版）
 
 逆向一切你想逆向的软件工程。让 AI 代理拆解已发布的软件，回答「这个功能是怎么实现的」，并且每一条结论都
@@ -8,7 +9,34 @@ Electron、APK、固件与浏览器运行时的分析能力统一成 MCP 服务�
 工具。本技能是其中文封装：把英文方法论完整汉化，并补上安装接入、引擎配置、
 命令索引与自检脚本。
 
+# REA: Reverse Engineer Anything
+
+### One MCP for reverse engineering across binaries, applications, and runtime behavior.
+
+**See a feature you like. Understand how it works, down to the binary level.**
+
+[![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
+[![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](docs/mcp-contracts.md#generated-catalog)
+[![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#what-you-can-analyze)
+[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
+[![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](LICENSE)
+[![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)
+
 <a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="greatworks%2Frea | Trendshift" width="250" height="55"/></a>
+
+## REA Star history
+
+🎉 **300,000 GitHub stars — thank you!**
+
+Thanks to everyone using REA, reporting bugs, requesting features, testing builds, and contributing fixes.
+
+<a href="https://www.star-history.com/?repos=morluto%2Frea&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+    <img alt="REA GitHub star history" src="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+  </picture>
+</a>
 
 ## 适合谁
 
@@ -146,3 +174,4 @@ workbuddy`，确认后加 `--apply`，然后重启会话。注册后如果又突
 
 基于 morluto 的 REA（MIT）。上游版权声明原样保留，改动范围见 `NOTICE.md`。
 上游项目主页 https://github.com/morluto/rea 。
+</div>
