@@ -1,8 +1,10 @@
 
 # REA 逆向工程 Skill（中文版）
 
-逆向一切你想逆向的软件工程。让 AI 代理拆解已发布的软件，回答「这个功能是怎么实现的」，并且每一条结论都
-能挂回可引用的证据。
+专门安装REA中文版的SKILL，在各大Agent(比如workbuddy, Codex, Cloud Code等，给到Agent这个github地址，让Agent安装，即可自动安装REA最新版本)，安装完这个skill即可体验最新汉化版的REA。逆向一切你想逆向的软件工程。让 AI 代理拆解已发布的软件，回答「这个功能是怎么实现的」，并且每一条结论都能挂回可引用的证据。在你的Agent输入如下提示词即可：
+```bash
+请给我安装这个Skill：https://github.com/greatworks/REA-zh.git
+```
 
 底层是 [REA](https://github.com/morluto/rea) —— 一个把二进制、安装包、
 Electron、APK、固件与浏览器运行时的分析能力统一成 MCP 服务器与命令行的
